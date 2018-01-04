@@ -4,9 +4,7 @@
 
 
 [中文文档]https://segmentfault.com/a/1190000009090836
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/vMACqConzRGb2TuXvYSosXpP/PanJiaChen/vueAdmin-template'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/vMACqConzRGb2TuXvYSosXpP/PanJiaChen/vueAdmin-template.svg' />
-</a>
+
 
 ## Build Setup
 
